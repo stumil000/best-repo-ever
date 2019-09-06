@@ -1,3 +1,2 @@
 # best-repo-ever
-This is an update to Stu's BEst Repo Ever repository.
-Why didnt that work?
+NEW BRANCH 3 was created on Friday 6th September
